@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\bin\Debug\net7.0\00_Exercies_3.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\bin\Debug\net7.0\00_Exercies_3.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\bin\Debug\net7.0\00_Exercies_3.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\bin\Debug\net7.0\00_Exercies_3.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\bin\Debug\net7.0\00_Exercies_3.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\00_Exercies_3.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\00_Exercies_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\00_Exercies_3.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\00_Exercies_3.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\00_Exercies_3.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\00_Exercies_3.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\refint\00_Exercies_3.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\00_Exercies_3.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\00_Exercies_3.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\ref\00_Exercies_3.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\00_Exercies_3\obj\Debug\net7.0\00_Exercies_3.csproj.CopyComplete

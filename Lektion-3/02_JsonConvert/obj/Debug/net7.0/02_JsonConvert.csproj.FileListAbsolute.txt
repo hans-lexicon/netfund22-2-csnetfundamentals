@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\bin\Debug\net7.0\02_JsonConvert.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\bin\Debug\net7.0\02_JsonConvert.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\bin\Debug\net7.0\02_JsonConvert.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\bin\Debug\net7.0\02_JsonConvert.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\bin\Debug\net7.0\02_JsonConvert.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\02_JsonConvert.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\02_JsonConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\02_JsonConvert.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\02_JsonConvert.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\02_JsonConvert.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\02_JsonConvert.csproj.CopyComplete
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\02_JsonConvert.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\refint\02_JsonConvert.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\02_JsonConvert.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\02_JsonConvert.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\02_JsonConvert\obj\Debug\net7.0\ref\02_JsonConvert.dll

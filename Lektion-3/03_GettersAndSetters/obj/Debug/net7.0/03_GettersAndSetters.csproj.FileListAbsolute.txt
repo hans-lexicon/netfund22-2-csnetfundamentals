@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\bin\Debug\net7.0\03_GettersAndSetters.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\bin\Debug\net7.0\03_GettersAndSetters.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\bin\Debug\net7.0\03_GettersAndSetters.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\bin\Debug\net7.0\03_GettersAndSetters.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\bin\Debug\net7.0\03_GettersAndSetters.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\obj\Debug\net7.0\03_GettersAndSetters.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\obj\Debug\net7.0\03_GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\obj\Debug\net7.0\03_GettersAndSetters.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\obj\Debug\net7.0\03_GettersAndSetters.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\obj\Debug\net7.0\03_GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\obj\Debug\net7.0\03_GettersAndSetters.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\obj\Debug\net7.0\refint\03_GettersAndSetters.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\obj\Debug\net7.0\03_GettersAndSetters.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\obj\Debug\net7.0\03_GettersAndSetters.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-3\03_GettersAndSetters\obj\Debug\net7.0\ref\03_GettersAndSetters.dll

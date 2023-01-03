@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ncwtByOcqtYIOo8VbVAVN+L1+v3C7JHkazFQIQIgD3nqcMIHlWSWK9E6criz57RZ+FpoAiVmc8aEpahhDpZOgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND22-2\\cs-netfundamentals\\Lektion-3\\02_JsonConvert\\02_JsonConvert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
