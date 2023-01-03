@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\bin\Debug\net7.0\00_Exercise_2.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\bin\Debug\net7.0\00_Exercise_2.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\bin\Debug\net7.0\00_Exercise_2.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\bin\Debug\net7.0\00_Exercise_2.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\bin\Debug\net7.0\00_Exercise_2.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\obj\Debug\net7.0\00_Exercise_2.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\obj\Debug\net7.0\00_Exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\obj\Debug\net7.0\00_Exercise_2.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\obj\Debug\net7.0\00_Exercise_2.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\obj\Debug\net7.0\00_Exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\obj\Debug\net7.0\00_Exercise_2.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\obj\Debug\net7.0\refint\00_Exercise_2.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\obj\Debug\net7.0\00_Exercise_2.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\obj\Debug\net7.0\00_Exercise_2.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-2\00_Exercise_2\obj\Debug\net7.0\ref\00_Exercise_2.dll
