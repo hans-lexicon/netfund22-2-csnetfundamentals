@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\bin\Debug\net7.0\04_Example.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\bin\Debug\net7.0\04_Example.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\bin\Debug\net7.0\04_Example.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\bin\Debug\net7.0\04_Example.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\bin\Debug\net7.0\04_Example.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\obj\Debug\net7.0\04_Example.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\obj\Debug\net7.0\04_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\obj\Debug\net7.0\04_Example.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\obj\Debug\net7.0\04_Example.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\obj\Debug\net7.0\04_Example.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\obj\Debug\net7.0\04_Example.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\obj\Debug\net7.0\refint\04_Example.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\obj\Debug\net7.0\04_Example.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\obj\Debug\net7.0\04_Example.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\04_Example\obj\Debug\net7.0\ref\04_Example.dll

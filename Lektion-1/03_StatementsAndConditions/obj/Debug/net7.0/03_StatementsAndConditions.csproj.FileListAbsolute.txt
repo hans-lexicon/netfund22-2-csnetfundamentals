@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\bin\Debug\net7.0\03_StatementsAndConditions.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\bin\Debug\net7.0\03_StatementsAndConditions.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\bin\Debug\net7.0\03_StatementsAndConditions.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\bin\Debug\net7.0\03_StatementsAndConditions.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\bin\Debug\net7.0\03_StatementsAndConditions.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\obj\Debug\net7.0\03_StatementsAndConditions.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\obj\Debug\net7.0\03_StatementsAndConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\obj\Debug\net7.0\03_StatementsAndConditions.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\obj\Debug\net7.0\03_StatementsAndConditions.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\obj\Debug\net7.0\03_StatementsAndConditions.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\obj\Debug\net7.0\03_StatementsAndConditions.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\obj\Debug\net7.0\refint\03_StatementsAndConditions.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\obj\Debug\net7.0\03_StatementsAndConditions.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\obj\Debug\net7.0\03_StatementsAndConditions.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\03_StatementsAndConditions\obj\Debug\net7.0\ref\03_StatementsAndConditions.dll

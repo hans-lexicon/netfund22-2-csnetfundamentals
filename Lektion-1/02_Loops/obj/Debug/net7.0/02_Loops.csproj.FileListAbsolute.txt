@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\bin\Debug\net7.0\02_Loops.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\bin\Debug\net7.0\02_Loops.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\bin\Debug\net7.0\02_Loops.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\bin\Debug\net7.0\02_Loops.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\bin\Debug\net7.0\02_Loops.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\obj\Debug\net7.0\02_Loops.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\obj\Debug\net7.0\02_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\obj\Debug\net7.0\02_Loops.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\obj\Debug\net7.0\02_Loops.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\obj\Debug\net7.0\02_Loops.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\obj\Debug\net7.0\02_Loops.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\obj\Debug\net7.0\refint\02_Loops.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\obj\Debug\net7.0\02_Loops.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\obj\Debug\net7.0\02_Loops.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\Lektion-1\02_Loops\obj\Debug\net7.0\ref\02_Loops.dll
