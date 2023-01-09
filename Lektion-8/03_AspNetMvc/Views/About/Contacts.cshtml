@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["PageTitle"] = "Come in Contact with Us";
+}
+
+<partial name="_BreadcrumbPartial" />
+
+<div class="contact-us">
+    <partial name="_GoogleMapsPartial" />
+
+    <section class="contact-form">
+        <div class="container">            
+            <div class="content text-center">
+                <h2>@ViewData["PageTitle"]</h2>
+            </div>
+            <partial name="_ContactFormPartial" />
+        </div>
+    </section>
+</div>

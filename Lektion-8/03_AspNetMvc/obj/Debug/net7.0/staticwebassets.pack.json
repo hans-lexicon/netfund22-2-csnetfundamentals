@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND22-2\\cs-netfundamentals\\Lektion-8\\03_AspNetMvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\03_AspNetMvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\03_AspNetMvc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND22-2\\cs-netfundamentals\\Lektion-8\\03_AspNetMvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND22-2\\cs-netfundamentals\\Lektion-8\\03_AspNetMvc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND22-2\\cs-netfundamentals\\Lektion-8\\03_AspNetMvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.03_AspNetMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.03_AspNetMvc.props",
+      "PackagePath": "build\\03_AspNetMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.03_AspNetMvc.props",
+      "PackagePath": "buildMultiTargeting\\03_AspNetMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.03_AspNetMvc.props",
+      "PackagePath": "buildTransitive\\03_AspNetMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
