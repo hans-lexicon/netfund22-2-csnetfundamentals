@@ -1,0 +1,16 @@
+﻿<nav class="navbar navbar-expand-lg">
+    <div class="container d-flex justify-content-between">
+        <a class="navbar-brand" asp-controller="Home" asp-action="Index">Fixxo.</a>
+        <ul class="navbar-nav">
+            <li class="nav-item"><a class="nav-link @Html.ActiveClass("Home", "Index")" asp-controller="Home" asp-action="Index">Home</a></li>
+            <li class="nav-item"><a class="nav-link @Html.ActiveClass("Products", "Index")" asp-controller="Products" asp-action="Index">Products</a></li>
+            <li class="nav-item"><a class="nav-link @Html.ActiveClass("Contacts", "Index")" asp-controller="Contacts" asp-action="Index">Contacts</a></li>
+        </ul>
+        <ul class="navbar-shopping">
+            <li class="nav-item"><a class="nav-link" asp-controller="Products" asp-action="Search"><i class="fa-regular fa-search"></i></a></li>
+            <li class="nav-item"><a class="nav-link" asp-controller="Products" asp-action="Compare"><i class="fa-regular fa-code-compare"></i></a></li>
+            <li class="nav-item"><a class="nav-link" asp-controller="Products" asp-action="WishList"><i class="fa-regular fa-heart"></i></a></li>
+            <li class="nav-item"><a class="nav-link" asp-controller="ShoppingCart" asp-action="Index"><i class="fa-regular fa-shopping-bag"></i></a></li>
+        </ul>
+    </div>
+</nav>
