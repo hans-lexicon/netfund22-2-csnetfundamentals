@@ -1,0 +1,17 @@
+﻿@{
+    var breadcrumb = $"{Model.Breadcrumb}".TrimStart('/').Split("/");
+}
+
+<section class="breadcrumb">
+    <div class="container">
+        <ul class="breadcrumb-list">
+            <li><a asp-controller="Home" asp-action="Index">Home</a></li>        
+            
+            @foreach (var path in breadcrumb)
+            {
+                <li> > @path</li>
+            }
+
+        </ul>
+    </div>
+</section>

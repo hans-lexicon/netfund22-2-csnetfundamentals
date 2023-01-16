@@ -1,0 +1,17 @@
+﻿@model ProductsIndexViewModel
+
+@{
+    ViewData["Title"] = Model.PageTitle;
+}
+
+<partial name="_Breadcrumb" />
+<div>
+    <div class="container text-center">
+        <h1>Products</h1>
+    </div>
+    <partial name="_ProductTiles" model="@Model.Products" />
+</div>
+
+
+
+

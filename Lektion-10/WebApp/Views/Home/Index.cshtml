@@ -1,0 +1,7 @@
+﻿@model HomeIndexViewModel
+
+@{
+    ViewData["Title"] = Model.PageTitle;
+}
+
+<partial name="_ProductTiles" model="@Model.FeaturedProducts" />

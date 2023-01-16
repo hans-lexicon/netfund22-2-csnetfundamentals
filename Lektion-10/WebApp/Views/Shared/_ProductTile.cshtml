@@ -1,0 +1,29 @@
+﻿<div class="col">
+    <div class="card">
+        <div class="card-img">
+            <img src="@Model.ImageUrl" alt="@Model.Name" />
+            <div class="card-menu d-xl-none">
+                <button class="menu-link"><i class="fa-regular fa-heart"></i></button>
+                <button class="menu-link"><i class="fa-regular fa-code-compare"></i></button>
+                <button class="menu-link"><i class="fa-regular fa-bag-shopping"></i></button>
+            </div>
+            <a asp-controller="Products" asp-action="Details" asp-route-id="@Model.Id" class="btn-theme btn-card-theme d-xl-none">
+                <span class="corner-left"></span>
+                <span class="corner-right"></span>
+                QUICK VIEW
+            </a>
+        </div>
+        <div class="card-body">
+            <p class="card-category">Category</p>
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-rating">
+                <i class="fa-sharp fa-solid fa-star"></i>
+                <i class="fa-sharp fa-solid fa-star"></i>
+                <i class="fa-sharp fa-solid fa-star"></i>
+                <i class="fa-sharp fa-solid fa-star"></i>
+                <i class="fa-sharp fa-solid fa-star"></i>
+            </p>
+            <p class="card-price">@Model.Price</p>
+        </div>
+    </div>
+</div>
