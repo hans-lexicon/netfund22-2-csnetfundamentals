@@ -1,0 +1,21 @@
+﻿@using WebApp.Models.ViewModels;
+@model HomeIndexViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_StartLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <h4>Featured Products</h4>
+    @foreach (var product in Model.FeaturedProducts)
+    {
+        <div>@product.Name - @product.Tag - @product.Category</div>
+    }
+    
+    <h4 class="mt-5">Outgoing Products</h4>
+    @foreach (var product in Model.OutgoingProducts)
+    {
+        <div>@product.Name - @product.Tag - @product.Category</div>
+    }
+
+</div>

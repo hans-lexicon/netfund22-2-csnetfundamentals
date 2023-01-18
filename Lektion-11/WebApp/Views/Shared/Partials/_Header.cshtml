@@ -1,0 +1,33 @@
+﻿<partial name="~/Views/Shared/Partials/_CartCanvas.cshtml" />
+
+<nav class="mainmenu container">
+    <a class="logo" asp-controller="Home" asp-action="Index">Fixxo.</a>
+
+    <div class="menu-links">
+        <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
+        <a class="menu-link" asp-controller="Products" asp-action="Index">Products</a>
+        <a class="menu-link" asp-controller="Contacts" asp-action="Index">Contacts</a>
+    </div>
+
+    <div class="menu-link-icons">
+        <a class="menu-link-icon" asp-controller="Products" asp-action="Search"><i class="fa-regular fa-magnifying-glass"></i></a>
+        <a class="menu-link-icon d-none d-md-flex" asp-controller="Products" asp-action="Compare">
+            <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-theme"></span>
+            <i class="fa-regular fa-code-compare"></i>
+        </a>
+        <a class="menu-link-icon d-none d-md-flex" asp-controller="Products" asp-action="WishList">
+            <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-theme"></span>
+            <i class="fa-regular fa-heart"></i>
+        </a>
+        <button class="menu-link-icon" type="button" data-bs-toggle="offcanvas" data-bs-target="#cart" aria-controls="cart">
+            <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-theme">0</span>
+            <i class="fa-regular fa-bag-shopping"></i>
+        </button>
+
+        <button class="menu-link-icon btn-link-icon d-xl-none">
+            <i class="fa-regular fa-bars"></i>
+        </button>
+
+    </div>
+</nav>
+
