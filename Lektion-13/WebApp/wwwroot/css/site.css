@@ -1,0 +1,304 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
+
+/* generics */
+
+html, body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+a {
+    color: #FF7373;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #FF7373;
+        text-decoration: underline;
+    }
+
+@media (min-width: 1600px) {
+    .container {
+        max-width: 1680px;
+    }
+}
+
+
+
+/* colors */
+.bg-theme {
+    background-color: #FF7373;
+}
+
+.bg-dark {
+    background-color: #222529 !important;
+}
+
+.bg-gradient-gray {
+    background: #E6E6E6;
+    background: linear-gradient(90deg, #E6E6E6 0%, #F5F5F5 100%);
+}
+
+
+/* buttons */
+.btn {
+    border-radius: 0;
+}
+
+.btn-theme {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background-color: #FF7373;
+    color: #FFFFFF;
+    padding: 20px 50px;
+    transition: all 0.2s ease-in-out;
+}
+
+    .btn-theme::before {
+        content: "";
+        position: absolute;
+        height: 20px;
+        width: 20px;
+        top: 10px;
+        left: 10px;
+        border-left: 1px solid #FFFFFF;
+        border-top: 1px solid #FFFFFF;
+    }
+
+    .btn-theme::after {
+        content: "";
+        position: absolute;
+        height: 20px;
+        width: 20px;
+        bottom: 10px;
+        right: 10px;
+        border-right: 1px solid #FFFFFF;
+        border-bottom: 1px solid #FFFFFF;
+    }
+
+    .btn-theme:hover {
+        color: #FFFFFF !important;
+        background-color: #222529;
+        text-decoration: none;
+    }
+
+
+/* breadcrumb */
+.breadcrumb {
+    margin-top: 30px;
+}
+
+    .breadcrumb .breadcrumb-list {
+        list-style: none;
+        margin: 0 0 20px 0;
+        padding: 0;
+        color: #222529;
+    }
+
+        .breadcrumb .breadcrumb-list li {
+            display: inline-block;
+            font-weight: 500;
+        }
+
+
+
+/* navbar (header) */
+.mainmenu {
+    display: grid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "logo menu-link-icons" "menu-links menu-links";
+}
+
+    .mainmenu .logo {
+        grid-area: logo;
+        font-size: 35px;
+        font-weight: 700;
+        color: #222529;
+        text-decoration: none;
+    }
+
+    .mainmenu .menu-links {
+        grid-area: menu-links;
+        font-weight: 400;
+        height: 100%;
+        overflow: hidden;
+        display: none;
+    }
+
+        .mainmenu .menu-links .menu-link {
+            display: block;
+            color: #222529;
+            font-weight: 500;
+            text-decoration: none;
+            margin: 15px 15px;
+        }
+
+            .mainmenu .menu-links .menu-link:hover {
+                color: #FF7373;
+                text-decoration: none;
+            }
+
+        .mainmenu .menu-links .active {
+            color: #FF7373;
+            text-decoration: none;
+        }
+
+    .mainmenu .menu-link-icons {
+        grid-area: menu-link-icons;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+        .mainmenu .menu-link-icons .menu-link-icon {
+            background-color: #FFFFFF;
+            color: #222529;
+            width: 36px;
+            height: 36px;
+            margin-left: 20px;
+            border-radius: 50%;
+            box-shadow: 0 0 6px 4px rgba(0, 0, 0, 0.06);
+            position: relative;
+            transition: all 0.1s ease-in-out;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+            .mainmenu .menu-link-icons .menu-link-icon:hover {
+                color: #FFFFFF;
+                background-color: #222529;
+                text-decoration: none;
+                box-shadow: 0 0 6px 4px rgba(0, 0, 0, 0.06);
+            }
+
+        .mainmenu .menu-link-icons .active {
+            color: #FFFFFF;
+            background-color: #222529;
+            text-decoration: none;
+            box-shadow: 0 0 6px 4px rgba(0, 0, 0, 0.06);
+        }
+
+        .mainmenu .menu-link-icons .btn-link-icon {
+            color: #FFFFFF;
+            background-color: #222529;
+            border: none;
+            outline: none;
+        }
+
+        .mainmenu .menu-link-icons button {
+            border: none;
+        }
+
+@media (min-width: 1200px) {
+    .mainmenu {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-areas: "logo menu-links menu-link-icons";
+    }
+
+        .mainmenu .menu-links {
+            display: flex;
+            justify-content: center;
+        }
+}
+
+/* showcase */
+.showcase {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+    .showcase .showcase-image-left {
+        margin-left: 0px;
+        display: none;
+        max-height: 700px;
+    }
+
+    .showcase .showcase-image-right {
+        margin-right: 0px;
+        display: none;
+        max-height: 700px;
+    }
+
+    .showcase .showcase-body {
+        margin-top: 30px;
+        padding-bottom: 60px;
+        text-align: center;
+        width: 100%;
+    }
+
+        .showcase .showcase-body h1 {
+            font-size: 45px;
+            font-weight: 800;
+        }
+
+        .showcase .showcase-body p {
+            margin-top: 50px;
+            margin-bottom: 35px;
+            font-size: 20px;
+        }
+
+@media (min-width: 1600px) {
+    .showcase {
+        margin-top: 0px;
+    }
+
+        .showcase .showcase-image-left {
+            display: block;
+        }
+
+        .showcase .showcase-image-right {
+            display: block;
+        }
+
+        .showcase .showcase-body {
+            padding-bottom: 0px;
+        }
+
+            .showcase .showcase-body h1 {
+                font-size: 65px;
+            }
+
+            .showcase .showcase-body p {
+                font-size: 20px;
+            }
+}
+
+footer {
+    background-color: #F0F0F0;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    bottom: 0;
+}
+
+    footer ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+        footer ul > li {
+            font-size: 1.5rem;
+            margin: 0 10px;
+        }
+
+
+.authentication h1 {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+    .authentication h1 a {
+        color: #616365;
+        text-decoration: none;
+    }
