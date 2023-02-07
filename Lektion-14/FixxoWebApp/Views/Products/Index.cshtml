@@ -1,0 +1,6 @@
+﻿@model List<Product>
+
+
+@foreach(var product in Model) {
+   <partial name="~/Views/Shared/Partials/_ProductCard.cshtml" model="product" />
+}

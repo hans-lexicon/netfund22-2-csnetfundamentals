@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FixxoWebApp
+build_property.RootNamespace = FixxoWebApp
+build_property.ProjectDir = C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-14\FixxoWebApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22-2\cs-netfundamentals\Lektion-14\FixxoWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Authentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Authentication/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Authentication/Restricted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUmVzdHJpY3RlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Favorites/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Products/Compare.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ29tcGFyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Products/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Shared/Partials/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Shared/Partials/_ProductCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9Qcm9kdWN0Q2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Shared/_Layout_CenterScreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfQ2VudGVyU2NyZWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/Shopping/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/NETFUND22-2/cs-netfundamentals/Lektion-14/FixxoWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
